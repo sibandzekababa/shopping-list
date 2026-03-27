@@ -1,0 +1,5 @@
+soap
+mop
+broom
+brush
+bin
